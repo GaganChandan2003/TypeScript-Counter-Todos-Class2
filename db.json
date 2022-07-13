@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Learn",
+      "id": 1,
+      "status": false
+    },
+    {
+      "title": "2525",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Gagan",
+      "status": false,
+      "id": 3
+    }
+  ]
+}
